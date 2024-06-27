@@ -1,1 +1,2 @@
 # pipeline
+I learned how to use pipelines with ColumnTransformer and how to save the pipeline using pickle, which makes coding easier by avoiding the need to rewrite code. Additionally, I explored how to apply GridSearchCV and cross-validation on the pipeline. This approach ensures that all preprocessing steps and model fitting are encapsulated in a single object, streamlining the workflow and enhancing the reproducibility and efficiency of the analysis. It helps in making changes to the code without making too much changes in the server code.
